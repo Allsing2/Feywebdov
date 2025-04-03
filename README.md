@@ -1,4 +1,4 @@
-<h1>Hi, I'm Josh! <br/>A Digital Customer Care Specialist | Juniour Project Manager | Electrical and Computer Engineer</a></h1>
+<h1>Hi, I'm Feyisa! <br/>A Digital Customer Care Specialist | Juniour Project Manager | Electrical and Computer Engineer</a></h1>
 
 <h2>👨‍💻 Software Engineering Student at alx:</h2>
 
